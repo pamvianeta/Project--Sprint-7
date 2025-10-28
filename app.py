@@ -212,7 +212,7 @@ with col_check_bar:
 with col_slider_bar:
     # Barra deslizadora (Slider) para seleccionar el rango de Año del Modelo
     year_range = st.slider(
-        'Selecion of year model',
+        'Selection of model year',
         min_value=min_year,
         max_value=max_year,
         value=(max_year - 5, max_year), # Valor inicial: últimos 5 años para mejor enfoque
@@ -248,7 +248,7 @@ if show_bar_chart:
     if pivot_data_model.empty:
         st.warning("No data that matches the selected year range.")
     else:
-        st.write(f'Modelos analizados en el rango: {min_selected_year} - {max_selected_year}')
+        st.write(f'Model year range: {min_selected_year} - {max_selected_year}')
 
         # Creación del Gráfico de Barras Horizontales Plotly Express
         fig_bar_model = px.bar(
