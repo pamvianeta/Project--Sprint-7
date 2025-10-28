@@ -8,4 +8,4 @@ such as the vehicle price, type, condition, and model years between 1908 and 201
 ## Features
 - Interactive histogram
 - Dispersion graph
-- Filters and controls
+- Filters, sliders and controls
