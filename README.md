@@ -10,7 +10,7 @@ such as the vehicle price, type, condition, and model years between 1908 and 201
 - Filters, sliders and controls
   
 ## Analysis
--
+-The most sold vehicle price was between 5K and 10K dollars.
 <img width="1819" height="847" alt="image" src="https://github.com/user-attachments/assets/5bbfa365-b7da-46e1-8096-961c536d2fc3" />
 -
 <img width="1820" height="720" alt="image" src="https://github.com/user-attachments/assets/6680e43a-ebed-40ee-95ae-d91a478709cd" />
