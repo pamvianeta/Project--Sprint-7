@@ -1,5 +1,4 @@
-# Project--Sprint-7
-# Analysis of Vehicle Ads - Web app
+# WEB App for EDA of Vehicle Ads
 
 ## Description
 This web app allows you to visualise the distribution and relationship of using different variables
