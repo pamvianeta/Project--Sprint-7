@@ -16,7 +16,8 @@ such as the vehicle price, type, condition, and model years between 1908 and 201
 - The most sold vehicle types were SUV, sedan and pickup.
 <img width="1920" height="1080" alt="@pamvianeta (1)" src="https://github.com/user-attachments/assets/06a626be-2d3b-4577-8cd5-9a5ce1087ebf" />
 - Dodge and Ford had more listed days, more than 300 days, while
-<img width="1920" height="1080" alt="@pamvianeta (2)" src="https://github.com/user-attachments/assets/cb59e26a-dad5-41ef-855b-e7ee104f8aea" />
+
+<img width="1428" height="1044" alt="@pamvianeta (2)" src="https://github.com/user-attachments/assets/d7c4a0f6-f2f8-4960-9b1f-678ae0405c94" />
 
 <img width="1852" height="1440" alt="grafico 3 sprint 6" src="https://github.com/user-attachments/assets/95aad010-e51c-45fd-8c28-d11ffd3d11e9" />
 
