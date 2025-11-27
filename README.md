@@ -19,5 +19,4 @@ such as the vehicle price, type, condition, and model years between 1908 and 201
 
 <img width="1428" height="1044" alt="@pamvianeta (2)" src="https://github.com/user-attachments/assets/d7c4a0f6-f2f8-4960-9b1f-678ae0405c94" />
 
-<img width="1852" height="1440" alt="grafico 3 sprint 6" src="https://github.com/user-attachments/assets/95aad010-e51c-45fd-8c28-d11ffd3d11e9" />
 
