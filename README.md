@@ -11,6 +11,8 @@ such as the vehicle price, type, condition, and model years between 1908 and 201
   
 ## Analysis
 - The most sold vehicle price was between 5K and 10K dollars.
+<img width="1920" height="1080" alt="@pamvianeta" src="https://github.com/user-attachments/assets/c4374ccb-4423-46d0-a6f9-4620891fae06" />
+
 <img width="1819" height="847" alt="image" src="https://github.com/user-attachments/assets/5bbfa365-b7da-46e1-8096-961c536d2fc3" />
 -More vehicles were sold with 100K Km with a price of less than 4K dollars.
 - The most sold vehicle types were SUV, sedan and pickup.
